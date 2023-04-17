@@ -44,8 +44,7 @@ x--------------------------------------------------0----------------------------
 4. https://vertabelo.com/blog/creating-a-data-model-for-carpooling/
 5. https://www.geeksforgeeks.org/system-design-of-uber-app-uber-system-architecture/
 6. https://appmaster.io/blog/how-build-efficient-ridesharing-app-features-and-cost
-7. **https://weixia.info/ride-hailing-system-design.html**
-
-1. https://weixia.info/assets/img/in-post/2020-10-28/Uber_App_System_Design_Architecture_v0.91.jpeg
-2. https://weixia.info/assets/img/in-post/2020-10-28/Untitled.png
-3. <img width="512" alt="image" src="https://user-images.githubusercontent.com/75258617/232562985-46227979-ea0f-42c7-a68c-869ed023cdef.png">
+7. https://www.codecademy.com/article/cf-cs-ridesharing
+8. **https://weixia.info/ride-hailing-system-design.html**
+9.  https://weixia.info/assets/img/in-post/2020-10-28/Uber_App_System_Design_Architecture_v0.91.jpeg
+10. https://weixia.info/assets/img/in-post/2020-10-28/Untitled.png
