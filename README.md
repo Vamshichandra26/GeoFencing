@@ -17,16 +17,16 @@ https://medium.com/analytics-vidhya/point-in-polygon-analysis-using-python-geopa
 
 x--------------------------------------------------------o------------------------------------------------------------------------x
 
-1.GeoFencing
-2.ETA
-3.Marketplace Matching
-4.GIs
-5.Route Optimization
+1. GeoFencing
+2. ETA
+3. Marketplace Matching
+4. GIS
+5. Route Optimization
 
 #ETA Estimated time of arrival -
 https://www.uber.com/en-IN/blog/deepeta-how-uber-predicts-arrival-times/
 
 Lyftt - Match Making
-https://eng.lyft.com/matchmaking-in-lyft-line-9c2635fe62c4
-https://eng.lyft.com/matchmaking-in-lyft-line-691a1a32a008
-https://eng.lyft.com/matchmaking-in-lyft-line-part-3-d8f9497c0e51
+1. https://eng.lyft.com/matchmaking-in-lyft-line-9c2635fe62c4
+2. https://eng.lyft.com/matchmaking-in-lyft-line-691a1a32a008
+3. https://eng.lyft.com/matchmaking-in-lyft-line-part-3-d8f9497c0e51
